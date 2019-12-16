@@ -1,0 +1,17 @@
+{
+  "name": "clinode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "mongodb": "^3.4.0"
+  }
+}
