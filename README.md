@@ -20,20 +20,20 @@ copy the code and paste it in an IDE the run the commands in the terminal(in the
 ## Running the tests
 
 to add a customer run the command
-* [node index.js add <firstname> <lastname> <phone> <email>]
+* [node index.js add "firstname" "lastname" "phone" "email"]
 
 to view a customer run the command
-* [node index.js find <firstname>]
+* [node index.js find "firstname"]
 
 to view all customers run the command 
 * [node index.js list]
 
 to update a customer entry run the command
-* [node update <firstname>]
-* [<firstname> <lastname> <phone> <email>]
+* [node update "firstname"]
+* ["firstname" "lastname" "phone" "email"]
 
 to delete a customer run the command
-* [node delete <firstname>]
+* [node delete "firstname"]
 
 
 ## Built With
